@@ -1,0 +1,7 @@
+## Default robots.txt
+User-agent: *
+Allow: /
+Allow: /job/
+Allow: /ads.txt
+Disallow: /cgi-bin/
+Disallow: /cdn-cgi/

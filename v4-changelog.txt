@@ -1,0 +1,3 @@
+Cookies Policy Page added.
+Google CSE code bug solved.
+Testing Done.
